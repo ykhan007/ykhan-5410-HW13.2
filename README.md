@@ -29,10 +29,10 @@ The program reads a text file (I used *alice.txt*), compresses it using LZW, sav
 - Produces a list of compressed codes
 
 ### 2. **Output**
-- Original text length: 143831
-- Compressed length: 32351
+Original text length: 143831
+Compressed length: 32351
 
-- First 45 characters of decoded text:
-- CHAPTER I.
-- Down the Rabbit-Hole
-- Alice was beg
+First 45 characters of decoded text:
+CHAPTER I.
+Down the Rabbit-Hole
+Alice was beg
