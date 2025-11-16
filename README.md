@@ -1,4 +1,4 @@
-# LZW Text Compression (Homework 13.2)
+# LZW Text Compression 
 
 This project is a simple implementation of the **Lempel–Ziv–Welch (LZW)** compression algorithm.  
 I built it for my Algorithms class to understand how dictionary-based compression actually works.
